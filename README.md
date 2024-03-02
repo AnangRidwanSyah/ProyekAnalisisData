@@ -8,7 +8,7 @@ Proyek ini menggambarkan eksplorasi dan analisis dari [Bike Sharing Dataset](htt
 ## Struktur Direktori 
 - **Bike_Sharing_Dataset**: Direktori ini berisi raw data dan data yang sudah diolah untuk digunakan dalam analisis, dalam format .csv.
 - **dashboard.py**: File ini digunakan untuk melakukan generate dashboard hasil visualisasi menggunakan streamlit.
-- **FP_Analisis Data_Dicoding.ipynb**: File ini digunakan untuk melakukan tahap analisis data mulai dari Data Wrangling, Exploratory Data Analysis (EDA), dan Visualization & Explanatory Analysis.
+- **FP_Analisis_Data_Dicoding.ipynb**: File ini digunakan untuk melakukan tahap analisis data mulai dari Data Wrangling, Exploratory Data Analysis (EDA), dan Visualization & Explanatory Analysis.
 
 ## Cara Instalasi
 
