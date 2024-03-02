@@ -28,6 +28,6 @@ Proyek ini menggambarkan eksplorasi dan analisis dari [Bike Sharing Dataset](htt
    cd \{Folder_File_Penyimpanan}
    streamlit run dashboard.py
    ```
-
-
+## Tampilan Dashboard
+![image](https://github.com/AnangRidwanSyah/ProyekAnalisisData/assets/112993686/cb5731f8-899d-4a19-80fe-1c871512bf42)
 
