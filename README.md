@@ -25,7 +25,7 @@ Proyek ini menggambarkan eksplorasi dan analisis dari [Bike Sharing Dataset](htt
    ```
 3. Run Streamlit Dashboard dari CMD:
    ```shell
-   cd\{Folder_File_Penyimpanan}
+   cd \{Folder_File_Penyimpanan}
    streamlit run dashboard.py
    ```
 
